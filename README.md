@@ -1,2 +1,2 @@
-# virtual-classroom-system
+# AMNA KHAN
 my project
